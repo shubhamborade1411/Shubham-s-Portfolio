@@ -17,3 +17,7 @@
 - I transformed those json files and then loaded them into PowerBi to make Interactive dashboards.
 - Tools Used: PowerBI, Pandas
 
+# [Project 4: Stock Price Prediction](https://github.com/shubhamborade1411/stock-prediction)
+-  I acquired data from Tiingo api which provide us real time data through api service. As it is real time data, so there are almost no missing values and any other data mismatch. 
+-  The model I used to make prediction is stacked LSTM which stands for Long Short term memory.
+-  Tools and Packages Used: Sklearn, Pandas, Tensorflow
