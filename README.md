@@ -22,3 +22,9 @@
 -  I acquired data from Tiingo api which provide us real time data through api service. As it is real time data, so there are almost no missing values and any other data mismatch. 
 -  The model I used to make prediction is stacked LSTM which stands for Long Short term memory.
 -  Tools and Packages Used: Sklearn, Pandas, Tensorflow
+
+# [ Project 5: Credit Card Defaulters](https://github.com/shubhamborade1411/Credit_card_defaulters/blob/main/README.md)
+- The data is taken from one of the competition of the Kaggle.
+- Performed Exploratory Data Analysis on dataset and modified data to add some feature which could add value in final prediction.
+- Algorithms Used: DecisionTree, Logistic Regression
+- Tools and Packages used : Pandas, Sklearn
