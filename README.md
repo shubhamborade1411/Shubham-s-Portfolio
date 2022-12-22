@@ -6,7 +6,7 @@
 - Performed EDA using SQL and visualization using Matplotlib and Seaborn in Jupyter Notebook.
 - Algorithms Used: Decision Tree, KNN, Logistic Regression.
 
-# [Project 2: Customer_Segmentation_Mpdel](https://github.com/shubhamborade1411/Customer-Segmentation)
+# [Project 2: Customer_Segmentation_Model](https://github.com/shubhamborade1411/Customer-Segmentation)
 - The data is acquired from kaggle.
 - Algorithms Used: KMeans, PCA
 - Model accuracy increased by using PCA
