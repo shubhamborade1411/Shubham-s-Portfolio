@@ -23,8 +23,14 @@
 -  The model I used to make prediction is stacked LSTM which stands for Long Short term memory.
 -  Tools and Packages Used: Sklearn, Pandas, Tensorflow
 
-# [ Project 5: Credit Card Defaulters](https://github.com/shubhamborade1411/Credit_card_defaulters/blob/main/README.md)
+# [Project 5: Credit Card Defaulters](https://github.com/shubhamborade1411/Credit_card_defaulters/blob/main/README.md)
 - The data is taken from one of the competition of the Kaggle.
 - Performed Exploratory Data Analysis on dataset and modified data to add some feature which could add value in final prediction.
 - Algorithms Used: DecisionTree, Logistic Regression
 - Tools and Packages used : Pandas, Sklearn
+
+# [Project 6: Dashboard On Global Superstore Data](https://github.com/shubhamborade1411/Global-Superstore-Dashboard)
+- The data is acquired from internet in form of csv.
+- Performed transformation on data in PowerBI.
+- Made this interactive dashboard in PowerBI.
+## Dashboard is shown here ![](https://github.com/shubhamborade1411/Global-Superstore-Dashboard/blob/main/Screenshot%20(847).png)
