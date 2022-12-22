@@ -16,7 +16,7 @@
 - I webscraped 1 file from internet and acquired other data in form of json.
 - I transformed those json files and then loaded them into PowerBi to make Interactive dashboards.
 - Tools Used: PowerBI, Pandas
-## One of the dashboard |[](https://github.com/shubhamborade1411/Cricket-Analytics/blob/main/Screenshot%20(844).png)
+## One of the dashboard ![](https://github.com/shubhamborade1411/Cricket-Analytics/blob/main/Screenshot%20(844).png)
 
 # [Project 4: Stock Price Prediction](https://github.com/shubhamborade1411/stock-prediction)
 -  I acquired data from Tiingo api which provide us real time data through api service. As it is real time data, so there are almost no missing values and any other data mismatch. 
