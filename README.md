@@ -6,7 +6,7 @@
 - Performed EDA using SQL and visualization using Matplotlib and Seaborn in Jupyter Notebook.
 - Algorithms Used: Decision Tree, KNN, Logistic Regression.
 
-# {Project 2: IPL Team Winning Probability Predictor Model](https://github.com/shubhamborade1411/IPL-Winner-Predictor)
+# [Project 2: IPL Team Winning Probability Predictor Model](https://github.com/shubhamborade1411/IPL-Winner-Predictor)
 - The data is acquired from Kaggle.
 - The project is for the prediction of probability of a team based on different parameters like overs remaining, wickets remaining and venue.
 - The data was in multiple csv's and from those csv's.
