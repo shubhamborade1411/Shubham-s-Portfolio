@@ -14,6 +14,7 @@
 - Then finally deployed model using Streamlit.
 - App link
  [https://shubhamborade1411-ipl-winner-predictor-ipl-app-py-0o3ev6.streamlit.app/]
+ ## App ![](https://github.com/shubhamborade1411/IPL-Winner-Predictor/blob/main/Screenshot%20(855).png)
 
 
 # [Project 3: Customer_Segmentation_Model](https://github.com/shubhamborade1411/Customer-Segmentation)
