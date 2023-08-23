@@ -57,9 +57,10 @@
 - Firstly I used MS SQL Server to to answer data analysis questionsusing SQL.
 - Then I used Power BI to perform ETL process on data and then later on built an amazing dashboard to display the insights I gained from Analysis.
 - Built 2 dashboard to display analysis with navigation buttons.
+- Used Dax funstions and date slicer to analyze data in specific time period.
 - I used tools like MS SQL Server, Power BI and Jupyter.
-## Dashboards 1(Home) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(465).png)
-## Dashboards 2 (Best/Worst Sellers) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(466).png)
+## Dashboard 1(Home) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(465).png)
+## Dashboard 2 (Best/Worst Sellers) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(466).png)
 
 
   
