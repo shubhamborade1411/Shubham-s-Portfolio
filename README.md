@@ -59,7 +59,7 @@
 - Built 2 dashboard to display analysis with navigation buttons.
 - Used Dax funstions and date slicer to analyze data in specific time period.
 - I used tools like MS SQL Server, Power BI and Jupyter.
-## Dashboard 1(Home) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(465).png)
+## Dashboard 1(Home) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(467).png)
 ## Dashboard 2 (Best/Worst Sellers) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(466).png)
 
 
