@@ -51,5 +51,16 @@
 - Performed transformation on data in PowerBI.
 - Made this interactive dashboard in PowerBI.
 ## Dashboard is shown here ![](https://github.com/shubhamborade1411/Global-Superstore-Dashboard/blob/main/Screenshot%20(847).png)
+
+# [Project 9: Pizza Sales Data Analysis](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis)
+- This is a personal project which I did for learning and apply my knowledge to do data projects on a Pizza sales data.
+- Firstly I used MS SQL Server to to answer data analysis questionsusing SQL.
+- Then I used Power BI to perform ETL process on data and then later on built an amazing dashboard to display the insights I gained from Analysis.
+- Built 2 dashboard to display analysis with navigation buttons.
+- I used tools like MS SQL Server, Power BI and Jupyter.
+## Dashboards 1(Home) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(465).png)
+## Dashboards 2 (Best/Worst Sellers) ![](https://github.com/shubhamborade1411/Pizza-Sales-Data-Analysis/blob/main/Screenshot%20(466).png)
+
+
   
  
